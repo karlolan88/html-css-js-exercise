@@ -1,0 +1,47 @@
+body {
+
+    background-image: url(nightcity.jpg);
+
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-brand,
+.nav-link {
+    color: #2b2c2d !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #a65da5 !important;
+}
+
+#portfolio {
+    background-color: #ffffff;
+    padding: 40px 0;
+}
+
+#portfolio h2 {
+    margin-bottom: 30px;
+}
+
+.card-title {
+    cursor: pointer;
+    color: #343a40;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.card-title:hover {
+    color: #007bff;
+}
+
+#contact {
+    background-color: #ffffff;
+    padding: 40px 0;
+}
+
+
